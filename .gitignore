@@ -21,5 +21,4 @@ Thumbs.db
 *.dll
 
 # Игнорировать тестовые Excel-файлы (если не нужны в репозитории)
-tests/*.xlsx
 tests/*.xlsm
